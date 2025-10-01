@@ -1,3 +1,5 @@
-local Lexer = require("./Bash/Lexer")
+--!strict
+
+local Lexer = require("./Bash/Lexer/init")
 
 return 0
