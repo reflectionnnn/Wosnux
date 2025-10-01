@@ -1,1 +1,1 @@
-print("Hello world!")
+local Bash = require("./src/Bash/init")
