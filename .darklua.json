@@ -1,0 +1,31 @@
+{
+  "bundle": {
+    "excludes": [
+      "repr",
+      "nature2d_legacy",
+      "octotree",
+      "sift",
+      "tableUtil",
+      "nature2d",
+      "symbol",
+      "fs",
+      "tween",
+      "ar_input",
+      "coordinate",
+      "promise",
+      "signal",
+      "partdata",
+      "trove",
+      "players",
+      "ethernet"
+    ],
+    "require_mode": {
+      "name": "luau",
+      "use_luau_configuration": true
+    }
+  },
+  "rules": [
+    "remove_types",
+    "remove_comments"
+  ]
+}
